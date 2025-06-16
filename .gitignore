@@ -44,7 +44,7 @@ Thumbs.db
 # ❗️NOTE: KHÔNG ignore *.png, *.jpg, *.psd để giữ asset
 # ❗️Nếu dùng Git LFS, bạn có thể thêm chúng vào riêng
 
-# ========== GIT LFS EXAMPLES (BỎ QUA TRONG TRƯỜNG HỢP BẠN CHƯA DÙNG) ==========
+# Git LFS (optional - if you're using Git LFS)
 # *.dll
 # *.so
 # *.dylib
@@ -56,3 +56,6 @@ Thumbs.db
 # *.psd
 # *.png
 # *.jpg
+
+# Ignore burst artifacts (optional, since you had issues with them)
+Library/PackageCache/com.unity.burst@*/.Runtime/

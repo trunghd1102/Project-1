@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Arrow
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -43,6 +45,15 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 2438426959
+    locked: 0
+  - name: Bow
+    uniqueID: 1879797705
+    locked: 0
+  - name: Enemy
+    uniqueID: 559193081
+    locked: 0
+  - name: arrow
+    uniqueID: 4260210593
     locked: 0
   m_RenderingLayers:
   - Default
