@@ -42,17 +42,17 @@ Thumbs.db
 *.sln.iml
 
 # Git LFS (optional - if you're using Git LFS)
-*.dll
-*.so
-*.dylib
-*.exe
-*.bin
-*.iso
-*.pdf
-*.png
-*.jpg
-*.mp4
-*.psd
+# *.dll
+# *.so
+# *.dylib
+# *.exe
+# *.bin
+# *.iso
+# *.pdf
+# *.mp4
+# *.psd
+# *.png
+# *.jpg
 
 # Ignore burst artifacts (optional, since you had issues with them)
 Library/PackageCache/com.unity.burst@*/.Runtime/
